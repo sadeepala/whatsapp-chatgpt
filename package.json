@@ -1,5 +1,5 @@
 {
-	"name": "whatsapp-chatgpt",
+	"name": "whatsapp chat sadeepa bot",
 	"version": "1.0.0",
 	"description": "Whatsapp bot that uses OpenAI's GPT & DALLE to respond to user inputs",
 	"main": "src/index.ts",
